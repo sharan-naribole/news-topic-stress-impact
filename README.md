@@ -1,6 +1,8 @@
 
 # Influence of News Topics on Facebook-based Stress Impact Scores
 
+<img src="images/facebook_reactions.png" alt="Smiley face">
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
@@ -29,9 +31,7 @@ Negative news can significantly change an individual’s mood leading to distres
 
 For the data collection, I utilize Facebook API to collect information including article link, likes and "reactions" information to news articles shared on the official pages of reputed newspapers around the world. Additionally, for each news article, I find out the broad topic category of the article either from the article's link or by scraping the article's main page. With the collected data, I perform various analyses including relationship between the negative and positive reactions to an article and the variance in stress score across news topics.
 
-For those unfamiliar with Facebook reactions, these are additional emotions one can express for photos, posts and other content on Facebook apart from the "like" option which was the only reaction present previously. The available reactions are shown in the figure below.
-
-<img src="images/facebook_reactions.png" alt="Smiley face">
+For those unfamiliar with Facebook reactions, these are additional emotions one can express for photos, posts and other content on Facebook apart from the "like" option which was the only reaction present previously. The available reactions are shown in the figure below the title.
 
 <a id ="related-work"></a>
 
