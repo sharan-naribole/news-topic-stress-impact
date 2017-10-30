@@ -31,7 +31,7 @@ For the data collection, I utilize Facebook API to collect information including
 
 For those unfamiliar with Facebook reactions, these are additional emotions one can express for photos, posts and other content on Facebook apart from the "like" option which was the only reaction present previously. The available reactions are shown in the figure below.
 
-<img src="images/facebook_reactions.png" alt="Smiley face" height="500" width="500">
+<img src="images/facebook_reactions.png" alt="Smiley face">
 
 <a id ="related-work"></a>
 
