@@ -445,11 +445,6 @@ plt.title("The Guardian")
 
 In conclusion, I analyzed Facebook reaction data for news articles shared on the official pages of leading newspapers. My analysis shows a strong negative correlation between positive reaction ratio and negative reaction ratio for an article. Moreover, significant variance was observed in stress score across the different news topics!
 
-
-```python
-
-```
-
 ## LICENSE
 
 Open sourced under the [MIT License](LICENSE.md)
