@@ -496,3 +496,7 @@ In conclusion, I analyzed Facebook reaction data for news articles shared on the
 ```python
 
 ```
+
+## LICENSE
+
+Open sourced under the [MIT License](LICENSE.md)
