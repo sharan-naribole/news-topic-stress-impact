@@ -483,9 +483,6 @@ plt.title("The Guardian")
 
 4. US News has the lowest mean stress score indicating a higher probability of negative news compared to others. With the US-related news being largely negative ever since the recent elections, this is not surprising.
 
-I performed similar analysis for also LA Times. This will allow us to compare the stress score across news agencies. The plot similar to above is displayed below.
-
-
 <a id ="conclusion"></a>
 
 ## 6. Conclusion
