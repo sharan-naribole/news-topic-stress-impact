@@ -1,6 +1,10 @@
 
 # Influence of News Topics on Facebook-based Stress Impact Scores
 
+30% of all time spent online is now allocated to social media interaction. How many times have you logged into Facebook with the intention of checking updates from dear ones only to find unpleasant news of politics and violence on top of your news feed? Negative news can significantly change an individual’s mood leading to distress and also degradation in productivity.
+
+My goal is to design a news recommendation engine that incorporates the potential stress impact to the user on reading the news articles. For example, during working hours, the recommendation engine can place low priority for negative news with high stress scores if previous activity from the user for similar news articles is not found. Intuitively, an article on violence/war is expected to induce a more negative reaction compared to an article on science/technology. To validate this hypothesis, I analyzed the reactions by the users to articles shared on Facebook by official pages of leading newspapers. My analysis shows that there is significant difference in potential stress impact across the different news topics.
+
 <img src="images/facebook_reactions.png" alt="Smiley face">
 
 ## Table of Contents
